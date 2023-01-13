@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">GreekWineApp</string>
+    <string name="welcome_store">Welcome to Athenian store!</string>
+    <string name="title_activity_for_testing">ForTesting</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="testing_textview">Here we doing testing \n For developer eyes only</string>
+    <string name="header_testing_activity">Testing Activity</string>
+    <string name="activity_main_text_google">10/10 Google Maps</string>
+    <string name="activity_main_best_store">Probably the best store</string>
+    <string name="activity_main_button_to_testing">To testing activity</string>
 </resources>
